@@ -1,0 +1,1 @@
+A very simple and objetive landing page made for self-employed workers to advertise their jobs. Straight-to-the-point, with some space for some self propaganda, full name, job name and description with a final button to contact information according to reader's interest.
